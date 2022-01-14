@@ -1,8 +1,8 @@
 // ignore_for_file: file_names, use_key_in_widget_constructors
 import 'package:avodha_moke/functions/animation.dart';
-import 'package:avodha_moke/functions/bottomButtton.dart';
+import 'package:avodha_moke/widgets/bottomButtton.dart';
 import 'package:avodha_moke/functions/const.dart';
-import 'package:avodha_moke/functions/reusableCard.dart';
+import 'package:avodha_moke/widgets/reusableCard.dart';
 import 'package:avodha_moke/screens/homePage.dart';
 import 'package:avodha_moke/screens/moreScreen.dart';
 import 'package:flutter/material.dart';

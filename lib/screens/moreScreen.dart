@@ -1,11 +1,10 @@
 // ignore_for_file: use_key_in_widget_constructors, file_names
 
 import 'package:avodha_moke/functions/animation.dart';
-import 'package:avodha_moke/functions/bottomButtton.dart';
+import 'package:avodha_moke/widgets/bottomButtton.dart';
 import 'package:avodha_moke/functions/const.dart';
-import 'package:avodha_moke/functions/reusableCard.dart';
+import 'package:avodha_moke/widgets/reusableCard.dart';
 import 'package:avodha_moke/screens/homePage.dart';
-import 'package:avodha_moke/screens/resultScreen.dart';
 import 'package:flutter/material.dart';
 
 class MorePage extends StatelessWidget {

@@ -1,12 +1,12 @@
 // ignore_for_file: file_names, prefer_const_constructors, non_constant_identifier_names, prefer_const_literals_to_create_immutables, empty_constructor_bodies, use_key_in_widget_constructors
 
 import 'package:avodha_moke/functions/animation.dart';
-import 'package:avodha_moke/functions/bottomButtton.dart';
+import 'package:avodha_moke/widgets/bottomButtton.dart';
 import 'package:avodha_moke/functions/const.dart';
-import 'package:avodha_moke/functions/iconContent.dart';
+import 'package:avodha_moke/widgets/iconContent.dart';
 import 'package:avodha_moke/functions/resultBmi.dart';
-import 'package:avodha_moke/functions/reusableCard.dart';
-import 'package:avodha_moke/functions/roundedIcon.dart';
+import 'package:avodha_moke/widgets/reusableCard.dart';
+import 'package:avodha_moke/widgets/roundedIcon.dart';
 import 'package:avodha_moke/screens/resultScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
